@@ -15,4 +15,4 @@ and then you can run ```simple_API_CRUD.py``` by command
 python simple_API_CRUD.py
 ```
 
-Then open Postman and enter http://127.0.0.1:5000/UserReview
+Then open Postman and enter ```http://127.0.0.1:5000/UserReview```
