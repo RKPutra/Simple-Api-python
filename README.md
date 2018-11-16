@@ -1,6 +1,6 @@
 Hi this is the project for assignment by Rizky Karunia Putra
 
-import database.sql to make a database for this API
+import ```database.sql``` to make a database for this API
 
 Make sure you already installed python (i make this project with python 3.5.2), Flask, Flash Restful, Flash Mysql, and json
 if you not have those, you can install following my step:
