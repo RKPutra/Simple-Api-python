@@ -1,4 +1,4 @@
-Hi this is the project for assignment by Rizky Karunia Putra
+Hi this is Simple REST API using ``` Flask ``` Rizky Karunia Putra
 
 import ```database.sql``` to make a database for this API
 
